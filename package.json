@@ -1,0 +1,26 @@
+{
+  "name": "virge",
+  "version": "1.0.0",
+  "description": "simple webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArbiKhan007/yummy.git"
+  },
+  "keywords": [
+    "travel"
+  ],
+  "author": "sam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArbiKhan007/yummy/issues"
+  },
+  "homepage": "https://github.com/ArbiKhan007/yummy#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "normalize.css": "^8.0.1"
+  }
+}
