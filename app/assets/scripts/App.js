@@ -9,7 +9,6 @@ new StickyHeader();
 new revealOnScroll(document.querySelectorAll('.feature-item'), 75);
 new revealOnScroll(document.querySelectorAll('.testimonials'), 60);
 let modal;
-
 document.querySelectorAll('.open-modal').forEach(el => {
 	el.addEventListener("click", (e) => {
 		e.preventDefault();
